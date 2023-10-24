@@ -17,6 +17,9 @@ Front-end: React, Redux
 Back-End: Express, Sequelize, Node.js
 Base de datos: PostgreSQL
 GIT ;)
+### Contacto:
+LinkedIn: https://www.linkedin.com/in/manuel-harris-83a365265/
+Correo electrónico: manuharris0@gmail.com 
 
 <!--
 **manuharris0/manuharris0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
